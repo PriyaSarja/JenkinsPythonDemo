@@ -1,1 +1,1 @@
-print(i for i%2==0 "\n")
+print(i for i%2==0)
